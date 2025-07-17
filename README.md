@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @galvao, I have 27+ years of experience in developing web and CLI applications
-- 👀 I’m interested in hiring opportunities
-- 🌱 I’m currently learning TypeScript and NodeJS
+- 👋 Hi, I’m @galvao, I have 30 years of experience in developing web and CLI applications.
+- 🕴️I'm the CTO of Hurben, a startup established in Brazil.
 - 💞️ I’m looking to collaborate on any project that's 100% Open Source
-- 📫 Drop me an e-mail by visiting my website: galvao.eti.br 
+- 📫 Visiting our website: hurben.com.br 
