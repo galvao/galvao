@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @galvao, I have 30 years of experience in developing web and CLI applications.
-- 🕴️I'm the CTO of Hurben, a startup established in Brazil.
+- 🕴️I'm the CTO and one of the Co-Founders of Hurben, a startup established in Brazil.
 - 💞️ I’m looking to collaborate on any project that's 100% Open Source
 - 📫 Visiting our website: hurben.com.br 
